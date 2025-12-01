@@ -1,0 +1,13 @@
+{
+  "player_name": "Josh",
+  "current_round": 1,
+  "max_rounds": 3,
+  "rounds": [
+    {
+      "scenario": "You are a pirate who is terrified of water. Steal the treasure without falling into the sea.",
+      "player": "[no improv text provided]",
+      "reaction": "What a wild turn \u2014 loved the commitment!"
+    }
+  ],
+  "summary": "Round 1: What a wild turn \u2014 loved the commitment!\n\n"
+}
